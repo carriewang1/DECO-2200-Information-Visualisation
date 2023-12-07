@@ -1,7 +1,7 @@
 # DECO-2200-Information-Visualisation
 Fundamental graphic applications for print technologies &amp; principles of print, page anatomy &amp; construction, design production literacies &amp; requirements for application to screen design. Role of process in design &amp; roles &amp; responsibilities inherent in design production processes.
 
-## 1. Just the facts
+## 1. [Just the facts](https://github.com/carriewang1/DECO-2200-Information-Visualisation/tree/main/Just%20the%20Facts)
 This project is designed to allow students to practice technical & theoretical skills in a creative manner. This project will enable students to develop a visual language and allow them to explore the possibilities for communicating a message in a visual form. By participating during in-class and on-line critiques, students will begin to develop design language needed to discuss design works in a critical and considered manner. By producing works regularly throughout the semester, students will be able to improve their technical & theoretical skills through iterative design process, and will be left with a visual record of their design learning. I produce 2D visual works to communicate supplied, textual facts utilising the Adobe Illustrator software package. The visual form should communicate the content and impact of the given fact using basic design elements (line, shape, colour & typography). Compositions should
 demonstrate an early understanding of graphic design principles and how these contribute to the visual communication of a message.
 
